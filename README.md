@@ -1,20 +1,19 @@
 
 # SE104 - Quan Ly Hoc Sinh
-A website for managing school data
+Football e-commerce website
 
 
 
 ## 🥸 Developers
 
-- Phat Luu
-- Quan Nguyen
+- Van Dat
 - Huy Ngo
 
 ## 🛸 Tech Stack
 
-**Client:** React.js, TailwindCSS
+**Client:** React.js
 
-**Server:** Node, Next.js
+**Server:** PHP, Laravel
 
 **Database:** MySQL
 ## 🛠 Deployment
@@ -28,7 +27,7 @@ Before you try to deploy run
 To deploy this project run
 
 ```bash
-  npm run dev
+  npm start
 ```
 
 Then check it out at http://localhost:3000/
